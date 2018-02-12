@@ -1,4 +1,4 @@
-# SearchYourWord_-on-terminal-or-cmd-
+# SearchYourWord-on-TerminalOrCmd
 
 Hello,
 
@@ -13,4 +13,4 @@ Procedure:
   2. Go to that folder and open your terminal/cmd (you'll get option for that on right click).
   3. In terminal/cmd type "python3 search_file.py". 
   
-  //prerequistic is python3 installed in laptop.
+  //prerequistic is python3 should be installed.
